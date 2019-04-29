@@ -10,5 +10,5 @@ To run Optifine and Forge/WorldEdit at the same time, run Optifine installer fir
 
 ## Saves
 1. Mansion
-* Uses 1.12
+* Uses 1.12 (1.12-forge1.12-14.21.1.2387)
 __________  

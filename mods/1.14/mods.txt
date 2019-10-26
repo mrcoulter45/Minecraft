@@ -1,0 +1,3 @@
+1. optifine - https://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F4.jar&x=81a2 (run and put in mods folder, run game once with it)
+2. forge - http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.14.4.html (download latest, once downloaded, open with Java Platform SE Binary)
+3. world edit - https://www.curseforge.com/minecraft/mc-mods/worldedit/files (put in mods folder)
